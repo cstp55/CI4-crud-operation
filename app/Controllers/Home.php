@@ -5,6 +5,7 @@ use App\Models\MovieModel;
 class Home extends BaseController
 {
 	/**
+ 	 * Crud operation with mysql 
 	 * Index Movie Data
 	 */
 	public function index()
