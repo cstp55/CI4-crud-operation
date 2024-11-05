@@ -1,7 +1,5 @@
 # CodeIgniter 4 CRUD MySQL and Bootstrap 4
 
-Tutorial: https://jaironlanda.com/blog/CodeIgniter/codeigniter-4-crud-bootstrap-4
-
 ## Installation & updates
 
 `composer create-project codeigniter4/appstarter` then `composer update` whenever
@@ -20,9 +18,6 @@ and any database settings.
 ## Server Requirements
 
 PHP version 7.2 or higher is required, with the following extensions installed: 
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
 Additionally, make sure that the following extensions are enabled in your PHP:
 
